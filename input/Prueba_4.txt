@@ -1,0 +1,4 @@
+data2 y target2 = generardatos 300 gotas con 3
+clasificador = Arbol
+entrenamieNTO clasificador usando data2 con target2
+verARbol clasificador

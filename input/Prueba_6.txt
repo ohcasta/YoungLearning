@@ -1,0 +1,2 @@
+clasificador = regresion
+entrenamieNTO clasificador usando data1 con target1

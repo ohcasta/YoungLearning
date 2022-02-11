@@ -1,0 +1,8 @@
+clasificador = BAYES
+data1 y target1 = generardatos 400 lunas
+data2 y target2 = generardatos 300 gotas
+entrenamieNTO clasificador usando data1 con target1
+grafica clasificador usando data1 con target1
+efectividad clasificador usando data1 con target1
+efectividad clasificador usando data2 con target2
+matriz clasificador usando data2 con target2

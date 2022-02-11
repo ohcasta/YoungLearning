@@ -1,0 +1,9 @@
+iris = "C:\Users\juand\OneDrive\Escritorio\Proyecto_Lenguajes\iris.csv"
+IrisData y IrisTarget = dividir iris
+IrisTrain, IrisTest, TargetTrain y TargetTest = Prepararentrenamiento usando IrisData con IrisTarget
+clasificador = arbol
+entrenamieNTO clasificador usando IrisTrain con TargetTrain
+Resultados = prediccion clasificador usando IrisTest
+Mostrar Resultados
+Mostrar TargetTest
+efectividad clasificador usando IrisTest con TargetTest

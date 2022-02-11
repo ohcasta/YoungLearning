@@ -1,0 +1,4 @@
+iris = "C:\Users\juand\OneDrive\Escritorio\Proyecto_Lenguajes\iris.csv"
+mostrar iris
+clas = arbol
+//Entrenamiento clas usando

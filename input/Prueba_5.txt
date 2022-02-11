@@ -1,0 +1,6 @@
+iris = "C:\Users\juand\OneDrive\Escritorio\Proyecto_Lenguajes\iris.csv"
+IrisData y IrisTarget = dividir iris
+Mostrar iris
+clasificador = arbol
+entrenamieNTO clasificador usando IrisData con IrisTarget
+verARbol clasificador

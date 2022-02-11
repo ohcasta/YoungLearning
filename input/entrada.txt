@@ -1,0 +1,7 @@
+dat y tar = generardatos 200 gotas CON 4
+clasificador1 = knn
+clasificador2 = regresION
+Entrenamiento clasificador1 usando dat con tar
+Entrenamiento clasificador2 usando dat con tar
+grafica clasificador1 usando dat con tar
+grafica clasificador2 usando dat con tar

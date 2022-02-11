@@ -1,0 +1,5 @@
+avocados = "C:\Users\juand\OneDrive\Escritorio\Proyecto_Lenguajes\avocado.csv"
+mostrar avocados
+data y target = DIVIdir avocados
+mostrar data con 50
+MOSTRAR target con 100
